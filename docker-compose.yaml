@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+ system-service:
+  image: r0781669/api_eindproject
+  ports:
+    - "8000:8000"
+  volumes:
+    - sqlite_volume:/code/sqlitedb
+
+volumes:
+  sqlite_volume:
