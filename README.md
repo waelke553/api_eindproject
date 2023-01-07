@@ -7,9 +7,9 @@ Voor mijn eindproject heb ik gekozen om mijn database rond school te maken. Daar
 In mijn project heb ik 3 tabellen "Land tabel, School tabel en een User tabel". Hierbij is de logica dat je eerst een land moet aanmaken via de API. Daarna maak je een school aan via de land ID mee te geven. En als laatste kan je een user aanmaken door de school ID mee te geven.
 En daarna kan je zoveel user toevoegen aan een school.
 
-Voor mijn API ik alle 3 de parameters gebruikt "path, querie, body". mijn GET API's zijn meestal path/querie parameters. En mijn POST API's zijn met body parameters mee geleverd. Als laatste heb ik ook een PUT API die de user zijn R-nummer kan veranderen naar een andere. Doordat je de juiste user-ID mee geeft in het path. Daarnaast heb ik ook een DELETE API die een user zal deleten door de juiste user-ID mee te geven in het path.
+Voor mijn API heb ik alle 3 de parameters gebruikt "path, query, body". mijn GET API's zijn meestal path/query parameters. En mijn POST API's kan je met body parameters gebruiken. Als voorlaatste heb ik ook een PUT API die de user zijn R-nummer kan veranderen naar een andere. Doordat je de juiste user-ID meegeeft in het path. En als laatste heb ik ook een DELETE API die een user zal deleten door de juiste user-ID mee te geven in het path.
 
-Voor de Front-END heb ik gekozen om alleen mijn GET en POST API's op te zetten. Voor de PUT en DELETE api zal je postmen moeten gebruiken.
+Voor de Front-END heb ik gekozen om alleen mijn GET en POST API's te gebruiken. Voor de PUT en DELETE api zal je postmen moeten gebruiken.
 Ik heb ook gitlab gebruikt om mijn html-website te hosten. (Zie foto)
 
 ![Front-end page](./img/front-end-page.png)
@@ -25,7 +25,7 @@ Python-bibliotheken die ik voor dit project heb gebruikt, worden hieronder weerg
 4. Fastapi
 5. Pydantic
 
-Ik heb "sqlalchemy" gebruikt om tabellen te creeren en informatie te inserten en verwijderen. Ik gebruik "passlib" om de user zijn passwoorden te encrypteren naar de database toe. "Os" wordt gebruikt om een directory op het systeem aan te maken als het nog niet bestond. "Fastapi" wordt gebruikt om een api te maken. Ik heb "pydantic" gebruikt om klassen te maken met het basismodel.
+Ik heb "sqlalchemy" gebruikt om tabellen te creeren en informatie te inserten en verwijderen in mijn database. Ik gebruik "passlib" om de user zijn passwoorden te encrypteren naar de database toe. "Os" wordt gebruikt om een directory op het systeem aan te maken als het nog niet bestond. "Fastapi" wordt gebruikt om een api te maken. Ik heb "pydantic" gebruikt om klassen te maken met het basismodel.
 
 
 # Soorten API's
