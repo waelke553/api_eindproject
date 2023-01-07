@@ -155,7 +155,7 @@ Front-end - API calls gemaakt waarvan alles inorde is.
 Github Repository: Hier zit u op <br />
 Github Repository voor front-end: [GitHub Repo - Front-end Link](https://github.com/waelke553/api_eindproject_website) <br />
 Hosted API: [Okteto - Hosted API Link](https://system-service-waelke553.cloud.okteto.net/) <br />
-Hosted front-end: [Github - Hosted Front-end Link](https://waelke553.github.io/api_basisproject_website/) <br />
+Hosted front-end: [Github - Hosted Front-end Link](https://waelke553.github.io/api_eindproject_website/) <br />
 
 Bijkomende commentaar, aanvullingen, enz:
 
