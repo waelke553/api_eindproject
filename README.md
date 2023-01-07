@@ -1,6 +1,6 @@
 # api_eindproject
 
-Voor mijn eindproject heb ik gekozen om mijn database rond school te maken. Daarnaast hash ik ook de user zijn wachtwoorden. De inpiratie kwam van mijn vorig project hierbij had ik al iets gemaakt rond user en website's. Maar nu heb ik het thema rond scholen gemaakt en de users die erin zitten.
+Voor mijn eindproject heb ik gekozen om mijn database rond school te maken. Daarnaast hash ik ook de user zijn wachtwoorden. De inpiratie kwam van mijn vorig project hierbij had ik al iets gemaakt rond user's en website's. Maar nu heb ik het thema rond scholen gemaakt en de user's die erin zitten.
 
 # Project inhoud
 
